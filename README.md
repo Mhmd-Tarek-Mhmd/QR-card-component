@@ -5,4 +5,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Links
 
 - Live Site [URL](https://mhmd-tarek-mhmd.github.io/QR-card-component)
-- Solution [URL](https://www.frontendmentor.io/solutions/QR-card-component-)
+- Solution [URL](https://www.frontendmentor.io/solutions/qr-card-component-B1zbjtjGc)
